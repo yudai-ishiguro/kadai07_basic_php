@@ -1,0 +1,14 @@
+.weather-report {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    display: flex;
+    align-items: center;
+    width: 700px;
+}
+.weather-report img {
+    margin-right: 10px;
+}
+.weather-date, .weather-main, .weather-temp, .weather-wind {
+    margin-right: 10px;
+}
